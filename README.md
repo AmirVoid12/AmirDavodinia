@@ -1,7 +1,7 @@
 # 👋 سلام، من امیر داوودی نیا (AmirDavodinia) هستم!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200px">
 </div>
 
 ## 🚀 درباره من
