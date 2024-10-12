@@ -11,7 +11,7 @@
 - 👀 علاقه‌مند به هوش مصنوعی، یادگیری ماشین و امنیت سایبری
 - 🌱 در حال حاضر مشغول یادگیری معماری‌های پیشرفته نرم‌افزار و DevOps هستم
 - 💞️ مشتاق همکاری در پروژه‌های منبع باز و استارتاپ‌های نوآورانه
-- 📫 نحوه تماس با من: [ایمیل من](mailto:amir.davodinia@example.com)
+- 📫 نحوه تماس با من: [ایمیل من](mailto:amir.davoodiniaa@gmail.com)
 - 😄 ضمایر: او/او
 - ⚡ نکته جالب: من می‌توانم به 5 زبان مختلف برنامه‌نویسی کنم!
 
@@ -65,8 +65,7 @@
 
 <div align="center">
 
-[![AI-Powered-Security](https://github-readme-stats.vercel.app/api/pin/?username=AmirDavodinia&repo=AI-Powered-Security&theme=dark)](https://github.com/AmirDavodinia/AI-Powered-Security)
-[![Smart-Home-IoT](https://github-readme-stats.vercel.app/api/pin/?username=AmirDavodinia&repo=Smart-Home-IoT&theme=dark)](https://github.com/AmirDavodinia/Smart-Home-IoT)
+[![WebSite-template](https://github-readme-stats.vercel.app/api/pin/?username=AmirDavodinia&repo=WebSite-template&theme=dark)](https://github.com/AmirDavodinia/WebSite-template)
 
 </div>
 
@@ -74,10 +73,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirdavodinia/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmirDavodinia)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amir_davodiniaa)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmirDavodinia)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.amirdavodinia.ir)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirDavodinia)
-
 </div>
 
 ---
