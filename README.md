@@ -62,7 +62,7 @@
 
 <div align="center">
 
-[![WebSite-template](https://github-readme-stats.vercel.app/api/pin/?username=AmirDavodinia&repo=WebSite-template&theme=dark)](https://github.com/AmirDavodinia/WebSite-template)
+[![Website-template](https://github-readme-stats.vercel.app/api/pin/?username=AmirDavodinia&repo=Website-template&theme=dark)](https://github.com/AmirDavodinia/Website-template)
 
 </div>
 
