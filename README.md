@@ -1,8 +1,5 @@
 # 👋 Hello, I'm Amir Davodinia (AmirDavodinia)!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200px">
-</div>
 
 ## 🚀 About Me
 
@@ -32,8 +29,14 @@ I'm a creative and energetic programmer who loves solving complex problems and c
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
+
 
 ## 🖥️ Operating Systems I Use
 
@@ -67,7 +70,7 @@ I'm a creative and energetic programmer who loves solving complex problems and c
 
 </div>
 
-## 🤝 Connect with Me
+## 🤝 Contact With Me!
 
 <div align="center">
 
