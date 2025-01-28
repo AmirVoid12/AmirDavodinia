@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Amir Davodinia (AmirDavodinia)!
+# 👋 Hello, I'm AmirVoid!
 
 
 ## 🚀 About Me
@@ -8,7 +8,6 @@ I'm a creative and energetic programmer who loves solving complex problems and c
 - 👀 Interested in AI, machine learning, and cybersecurity
 - 🌱 Currently learning advanced software architectures and DevOps
 - 💞️ Eager to collaborate on open-source projects
-- 📫 How to reach me: [My Email](mailto:amir.davoodiniaa@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can code in 13 or more programming languages!
 
@@ -52,7 +51,7 @@ I'm a creative and energetic programmer who loves solving complex problems and c
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirDavodinia&show_icons=true&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirVoid12&show_icons=true&theme=blue-green)
 
 </div>
 
@@ -66,7 +65,7 @@ I'm a creative and energetic programmer who loves solving complex problems and c
 
 <div align="center">
 
-[![Website-template](https://github-readme-stats.vercel.app/api/pin/?username=AmirDavodinia&repo=Website-template&theme=blue-green)](https://github.com/AmirDavodinia/Website-template)
+[![Website-template](https://github-readme-stats.vercel.app/api/pin/?username=AmirVoid12&repo=Website-template&theme=blue-green)](https://github.com/AmirVoid12/Website-template)
 
 </div>
 
@@ -84,6 +83,6 @@ I'm a creative and energetic programmer who loves solving complex problems and c
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmirDavodinia&color=blue&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=AmirVoid12&color=blue&style=for-the-badge" alt="Profile Views">
   <p>Thanks for visiting my profile! 😊</p>
 </div>
