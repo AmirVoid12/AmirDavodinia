@@ -74,10 +74,10 @@ I'm a creative and energetic programmer who loves solving complex problems and c
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amir_davodiniaa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/@amir.davodinia)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmirDavodinia)
 [![Website](https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.amirdavodinia.ir)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirDavodinia)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirVoid12)
 
 </div>
 
